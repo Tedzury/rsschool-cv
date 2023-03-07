@@ -1,6 +1,3 @@
-Link to my CV: [rsschool-cv](https://github.com/Tedzury/rsschool-cv)
-
----
 
 ### **Drohachov Oleksii**
 
